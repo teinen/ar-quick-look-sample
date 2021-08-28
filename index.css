@@ -1,0 +1,9 @@
+.title {
+  padding: 0 16px;
+  text-align: center;
+}
+
+.ar-list {
+  display: flex;
+  justify-content: center;
+}
